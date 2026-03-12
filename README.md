@@ -3,7 +3,7 @@
 **Local-LLM–powered research paper quality checker.**
 Upload a PDF and get an automated review against the NeurIPS Paper Checklist — entirely on your own machine, no API keys required.
 
-![Web UI screenshot placeholder](docs/screenshot.png)
+![Web UI screenshot](docs/screenshot.png)
 
 ---
 
